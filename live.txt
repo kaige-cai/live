@@ -44,13 +44,33 @@ CCTV-风云足球 1920×1080 25FPS http://dbiptv.sn.chinamobile.com/PLTV/8888889
 山东卫视 1920×1080 25FPS http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/sdws8m/8000000/mnf.m3u8
 辽宁卫视 1920×1080 25FPS http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/lnwshd8m/8000000/mnf.m3u8
 河北卫视 1920×1080 25FPS http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/hbwshd8m/8000000/mnf.m3u8
+动漫秀场 1920×1080 50FPS  https://live.metshop.top/bestv.php?id=dmxc8m/8000000
+动漫秀场 1920×1080 50FPS  https://cntv.lat/tv?auth=202311030915&id=dmxc
 
 国际电视台
 CGTN 1920×1080 50FPS http://mqiptv.com:8014/ch/custom6/mqlive.m3u8
 PAC 12 Insider 1920×1080 25FPS https://pac12-samsungus.amagi.tv/playlist.m3u8
+Fox News 1280×720 30FPS https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 OAN Plus 1920×1080 30FPS http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
 AL Jazeera 1920×1080 25FPS http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 TRT World 1920×1080 25FPS https://tv-trtworld.live.trt.com.tr/master.m3u8
 Afarin Kids TV 1920×1080 25FPS https://5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8
 NHK World 1920×1080 30FPS https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 8K UHD 7680×4320 30FPS http://ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
+Love Nature 4K 3840×2160 30FPS https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+Cinemax 1280×720 25FPS http://94.156.33.91/Cinemax/mono.m3u8
+Fox 土耳其 1280×720 25FPS https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
+CNA 新加坡 1280×720 25FPS http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+News Max 1920×1080 30FPS https://nmxairy.akamaized.net/hls/live/529965/Live_1/index.m3u8
+ABC News 1280×720 60FPS http://23.237.100.82:8000/ABC_WEST/manifest.m3u8
+CBS News New York 1280×720 30FPS https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8?iu=/8264/vaw-can/desktop/cbsnews
+
+18+ 成人频道 Adult Video TV
+Desire 1920×1080 25FPS http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+BRAZZERS 1920×1080 24FPS http://23.237.100.82:8000/BRAZZERS/index.m3u8
+Hustler 1920×1080 25FPS http://23.237.100.82:8000/HUSTLER/index.m3u8
+Pent House 1920×1080 24FPS http://23.237.100.82:8000/PENTHOUSE/index.m3u8
+Pent House Gold 1920×1080 25FPS  http://51.159.102.100/PenthouseGold/index.m3u8
+Play Boy 1920×1080 30FPS http://23.237.100.82:8000/PLAYBOY/index.m3u8
+PURETABOO 1280×720 24FPS http://78.47.224.234/puretaboo/index.m3u8
+Redlight HD 1920×1080 25FPS http://51.159.102.100/RedlightHD/index.m3u8
