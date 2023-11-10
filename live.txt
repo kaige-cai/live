@@ -64,13 +64,25 @@ CNA 新加坡 1280×720 25FPS http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f4
 News Max 1920×1080 30FPS https://nmxairy.akamaized.net/hls/live/529965/Live_1/index.m3u8
 ABC News 1280×720 60FPS http://23.237.100.82:8000/ABC_WEST/manifest.m3u8
 CBS News New York 1280×720 30FPS https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8?iu=/8264/vaw-can/desktop/cbsnews
+NBC
 
-18+ 成人频道 Adult Video TV
+18+ 成人色情频道 AV Adult Video TV  
 Desire 1920×1080 25FPS http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
 BRAZZERS 1920×1080 24FPS http://23.237.100.82:8000/BRAZZERS/index.m3u8
 Hustler 1920×1080 25FPS http://23.237.100.82:8000/HUSTLER/index.m3u8
 Pent House 1920×1080 24FPS http://23.237.100.82:8000/PENTHOUSE/index.m3u8
 Pent House Gold 1920×1080 25FPS  http://51.159.102.100/PenthouseGold/index.m3u8
 Play Boy 1920×1080 30FPS http://23.237.100.82:8000/PLAYBOY/index.m3u8
-PURETABOO 1280×720 24FPS http://78.47.224.234/puretaboo/index.m3u8
+Pure Taboo 1280×720 24FPS http://78.47.224.234/puretaboo/index.m3u8
 Redlight HD 1920×1080 25FPS http://51.159.102.100/RedlightHD/index.m3u8
+
+精选广播
+中文流行 128Kbps http://cpop.bigbradio.net/s
+韩语流行 192Kbps http://kpop.bigbradio.net/s
+日语流行 192Kbps http://jpop.bigbradio.net/s
+亚洲流行 192Kbps http://apop.bigbradio.net/s
+AsiaFM HD音乐 128Kbps http://asiafm.hk:8000/asiahd
+
+Modern Radio 
+电音电台 
+古典音乐台 
