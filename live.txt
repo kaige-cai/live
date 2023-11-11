@@ -11,7 +11,7 @@ CCTV-3 综艺 1920×1080 25FPS http://183.207.248.71/cntv/live1/cctv-3/cctv-3
 CCTV-3 综艺 1920×1080 25FPS http://223.110.241.204:6610/gitv/live1/G_CCTV-3-CQ/G_CCTV-3-CQ
 CCTV-4 中文国际 1920×1080 25FPS http://223.110.241.204:6610/gitv/live1/G_CCTV-4-CQ/G_CCTV-4-CQ
 CCTV-5 体育 1920×1080 25FPS http://223.110.241.204:6610/gitv/live1/G_CCTV-5-CQ/G_CCTV-5-CQ
-CCTV-5+ 体育赛事 1920×1080 25FPS 
+CCTV-5+ 体育赛事 1920×1080 25FPS http://223.110.241.204:6610/gitv/live1/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ/
 CCTV-6 电影 1920×1080 25FPS http://223.110.241.204:6610/gitv/live1/G_CCTV-6-CQ/G_CCTV-6-CQ
 CCTV-6 电影 1920×1080 25FPS http://ott.js.chinamobile.com/PLTV/3/224/3221227664/index.m3u8
 CCTV-7 国防军事 1920×1080 25FPS http://223.110.241.204:6610/gitv/live1/G_CCTV-7-HQ/G_CCTV-7-HQ
@@ -66,7 +66,9 @@ CNA 新加坡 1280×720 25FPS http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f4
 News Max 1920×1080 30FPS https://nmxairy.akamaized.net/hls/live/529965/Live_1/index.m3u8
 ABC News 1280×720 60FPS http://23.237.100.82:8000/ABC_WEST/manifest.m3u8
 CBS News New York 1280×720 30FPS https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8?iu=/8264/vaw-can/desktop/cbsnews
+翡翠台 1920×1080 25FPS https://pull-f5-spe.ixigua.com/yeslivetv.com/665488254-259490512/index.m3u8?by=yeslivetv.com
 NBC
+
 
 18+ 成人色情频道 AV Adult Video TV  
 Desire 1920×1080 25FPS http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
