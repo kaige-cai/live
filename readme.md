@@ -29,7 +29,7 @@ CCTV-6 电影 1920×1080 25FPS http://223.110.241.204:6610/gitv/live1/G_CCTV-6-C
 CCTV-6 电影 1920×1080 25FPS http://ott.js.chinamobile.com/PLTV/3/224/3221227664/index.m3u8
 CCTV-7 国防军事 1920×1080 25FPS http://223.110.241.204:6610/gitv/live1/G_CCTV-7-HQ/G_CCTV-7-HQ
 CCTV-8 电视剧 1920×1080 25FPS http://223.110.241.204:6610/gitv/live1/G_CCTV-8-CQ/G_CCTV-8-CQ
-CCTV-9 记录 1920×1080 25FPS 
+CCTV-9 记录 1920×1080 25FPS http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv9hd8m/8000000/mnf.m3u8
 CCTV-10 科教 1920×1080 25FPS http://223.110.241.204:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ
 CCTV-11 戏曲 1920×1080 25FPS http://223.110.241.204:6610/gitv/live1/G_CCTV-11-HQ/G_CCTV-11-HQ
 CCTV-12 社会与法 1920×1080 25FPS http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv12hd8m/8000000/mnf.m3u8

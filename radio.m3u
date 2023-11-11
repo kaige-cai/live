@@ -1,11 +1,10 @@
-﻿#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-web-us-west-2-tunein-com.s3-us-west-2.amazonaws.com/assets/img/shared/tiles/todays-hits-small.jpg" group-title="网络广播" radio="true",Today’s Hits
+﻿#EXTINF:-1, Today's Hits
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/newpophits.png" group-title="网络广播" radio="true",Pop Hits
+#EXTINF:-1, Pop Hits
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s249914/images/logod.png?t=1" group-title="网络广播" radio="true",Alternative Hits
+#EXTINF:-1, Alternative Hits
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s249981/images/logog.jpg?t=2" group-title="网络广播" radio="true",Country Hits
+#EXTINF:-1,Country Hits
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s224628/images/logog.jpg?t=4" group-title="网络广播" radio="true",Country Roads
 
@@ -1078,43 +1077,11 @@ WHIZ Radio 海口音乐广播,http://starfish.sz.aliyun.005.qingting.fm:8000/hai
 烟台音乐广播,http://live.yantaitv.cn/live/899686f2687848cdbe62b1c27f3b3fc1/111dcc2035384c579cb79a260591a4ea.m3u8
 惠州音乐广播,http://stream.hztvmg.com/test17/playlist.m3u8
 CCTV新科动漫,http://cctvalic.v.myalicdn.com/live/xinkedongman_1/index.m3u8?adapt=0&BR=audio
-湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
-东方卫视,http://satellitepull.cnr.cn/live/wx32dfws/playlist.m3u8
-浙江卫视,http://satellitepull.cnr.cn/live/wxzjws/playlist.m3u8
-江苏卫视,http://satellitepull.cnr.cn/live/wx32jsws/playlist.m3u8
-北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
-安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
-山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
-东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
-广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
-四川卫视,http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8
-天津卫视,http://satellitepull.cnr.cn/live/wxtjws/playlist.m3u8
-重庆卫视,http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8
-湖北卫视,http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8
-辽宁卫视,http://satellitepull.cnr.cn/live/wxlnws/playlist.m3u8
-吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
-黑龙江卫视,http://satellitepull.cnr.cn/live/wx32hljws/playlist.m3u8
-河北卫视,http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8
-河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
-贵州卫视,http://satellitepull.cnr.cn/live/wx32gzws/playlist.m3u8
-甘肃卫视,http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8
-陕西卫视,http://satellitepull.cnr.cn/live/wxsxxws/playlist.m3u8
-延边卫视,http://satellitepull.cnr.cn/live/wxybws/playlist.m3u8
-西藏卫视,http://satellitepull.cnr.cn/live/wxxzws/playlist.m3u8
-海南卫视,http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
-江西卫视,http://satellitepull.cnr.cn/live/wx32jiangxws/playlist.m3u8
-宁夏卫视,http://satellitepull.cnr.cn/live/wxnxws/playlist.m3u8
-青海卫视,http://satellitepull.cnr.cn/live/wx32qhws/playlist.m3u8
-内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8
-新疆卫视,http://satellitepull.cnr.cn/live/wxxjws/playlist.m3u8
 中国教育1,https://wstvalic.v.myalicdn.com/wstv/cetv1_1/index.m3u8?adapt=0&BR=audio
 中国教育2,https://wstvalic.v.myalicdn.com/wstv/cetv2_1/index.m3u8?adapt=0&BR=audio
 中国教育3,https://wstvalic.v.myalicdn.com/wstv/cetv3_1/index.m3u8?adapt=0&BR=audio
 中国教育4,https://wstvalic.v.myalicdn.com/wstv/cetv4_1/index.m3u8?adapt=0&BR=audio
 V0A-1,https://stream.radiojar.com/t2n88q0st5quv
-山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
-深圳旁边卫视,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
 北京新闻,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv9_1/index.m3u8?adapt=0&BR=audio
 北京文艺,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv2_1/index.m3u8?adapt=0&BR=audio
 北京科教,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv3_1/index.m3u8?adapt=0&BR=audio
