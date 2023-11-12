@@ -15,10 +15,7 @@ CCTV中国中央电视台
 CCTV-8K 超高清 7680×4320 50FPS 
 CCTV-8K 超高清 3840×2160 25FPS http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 CCTV-4K 超高清 3840×2160 25FPS http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv4k/15000000/mnf.m3u8
-CCTV-4K 超高清 3840×2160 25FPS https://live.metshop.top/bestv.php?id=cctv4k/15000000
-CCTV-1 综艺 1920×1080 25FPS http://39.135.137.205/PLTV/88888888/224/3221225816/1.m3u8
-CCTV-1 综艺 1920×1080 25FPS http://223.110.241.204:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ
-CCTV-2 财经 1920×1080 25FPS http://ott.js.chinamobile.com/TVOD/3/224/3221228118/index.m3u8
+CCTV-1 综合 1920×1080 25FPS http://223.110.241.204:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ
 CCTV-2 财经 1920×1080 25FPS http://223.110.241.204:6610/gitv/live1/G_CCTV-2-CQ/G_CCTV-2-CQ
 CCTV-3 综艺 1920×1080 25FPS http://183.207.248.71/cntv/live1/cctv-3/cctv-3
 CCTV-3 综艺 1920×1080 25FPS http://223.110.241.204:6610/gitv/live1/G_CCTV-3-CQ/G_CCTV-3-CQ
