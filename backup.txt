@@ -1,0 +1,11 @@
+ott.js.chinamobile.com
+liveplay-kk.rtxapp.com
+183.207.248.71/cntv
+39.135.137.205/PLTV
+ott.js.chinamobile.com/PLTV
+liveplay-kk.rtxapp.com/live
+223.110.241.204:6610/gitv/live1
+ott.js.chinamobile.com/TVOD
+liveplay-kk.rtxapp.com
+http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221228165/index.m3u8
+https://live.fanmingming.com/tv/m3u/global.m3u

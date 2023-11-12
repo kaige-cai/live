@@ -1,44 +1,74 @@
-#EXTINF:-1,CCTV-1超清
-http://223.110.241.204:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/
-#EXTINF:-1,CCTV-2超清
-http://223.110.241.204:6610/gitv/live1/G_CCTV-2-CQ/G_CCTV-2-CQ/
-#EXTINF:-1,CCTV-3超清
-http://223.110.241.204:6610/gitv/live1/G_CCTV-3-CQ/G_CCTV-3-CQ/
-#EXTINF:-1,CCTV-4超清
-http://223.110.241.204:6610/gitv/live1/G_CCTV-4-CQ/G_CCTV-4-CQ/
-#EXTINF:-1,CCTV-5超清
-http://223.110.241.204:6610/gitv/live1/G_CCTV-5-CQ/G_CCTV-5-CQ/
-#EXTINF:-1,CCTV-5+超清
-http://223.110.241.204:6610/gitv/live1/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ/
-#EXTINF:-1,CCTV-6超清
-http://223.110.241.204:6610/gitv/live1/G_CCTV-6-CQ/G_CCTV-6-CQ/
-#EXTINF:-1,CCTV-8超清
-http://223.110.241.204:6610/gitv/live1/G_CCTV-8-CQ/G_CCTV-8-CQ/
-#EXTINF:-1,安徽卫视超清
+#EXTINF:-1,CCTV-8K 超高清
+http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
+#EXTINF:-1,CCTV-4K 超高清
+http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv4k/15000000/mnf.m3u8
+#EXTINF:-1,CCTV-4K UHD
+http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228242/index.m3u8
+#EXTINF:-1,CCTV-1 综合
+http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228149/index.m3u8
+#EXTINF:-1,CCTV-2 财经
+http://223.110.241.204:6610/gitv/live1/G_CCTV-2-CQ/G_CCTV-2-CQ
+#EXTINF:-1,CCTV-3 综艺
+http://223.110.241.204:6610/gitv/live1/G_CCTV-3-CQ/G_CCTV-3-CQ
+#EXTINF:-1,CCTV-4 中文国际
+http://223.110.241.204:6610/gitv/live1/G_CCTV-4-CQ/G_CCTV-4-CQ
+#EXTINF:-1,CCTV-5 体育
+http://223.110.241.204:6610/gitv/live1/G_CCTV-5-CQ/G_CCTV-5-CQ
+#EXTINF:-1,CCTV-5+ 体育赛事
+http://223.110.241.204:6610/gitv/live1/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ
+#EXTINF:-1,CCTV-6 电影
+http://223.110.241.204:6610/gitv/live1/G_CCTV-6-CQ/G_CCTV-6-CQ
+#EXTINF:-1,CCTV-7 国防军事
+http://223.110.241.204:6610/gitv/live1/G_CCTV-7-CQ/G_CCTV-7-CQ
+#EXTINF:-1,CCTV-8 电视剧
+http://223.110.241.204:6610/gitv/live1/G_CCTV-8-CQ/G_CCTV-8-CQ
+#EXTINF:-1,CCTV-9 记录
+http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv9hd8m/8000000/mnf.m3u8
+#EXTINF:-1,CCTV-10 科教
+http://223.110.241.204:6610/gitv/live1/G_CCTV-10-CQ/G_CCTV-10-CQ
+#EXTINF:-1,CCTV-11 戏曲
+http://223.110.236.7/ott.js.chinamobile.com/PLTV/3/224/3221227720/index.m3u8
+#EXTINF:-1,CCTV-12 社会与法
+http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv12hd8m/8000000/mnf.m3u8
+#EXTINF:-1,CCTV-13 新闻
+http://223.110.241.204:6610/gitv/live1/G_CCTV-13-CQ/G_CCTV-13-CQ
+#EXTINF:-1,CCTV-14 少儿
+http://223.110.235.10/ott.js.chinamobile.com/PLTV/3/224/3221227656/index.m3u8
+#EXTINF:-1,CCTV-15 音乐
+http://223.110.235.10/ott.js.chinamobile.com/PLTV/3/224/3221227723/index.m3u8
+#EXTINF:-1,CCTV-16 奥林匹克 4K
+http://ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
+#EXTINF:-1,CCTV-17 农业农村
+http://223.110.235.10/ott.js.chinamobile.com/PLTV/3/224/3221227726/index.m3u8
+#EXTINF:-1,CCTV 风云足球
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/index.m3u8
+#EXTINF:-1,CCTV 高尔夫网球
+http://223.110.236.24/ott.js.chinamobile.com/PLTV/3/224/3221228138/index.m3u8
+#EXTINF:-1,安徽卫视
 http://223.110.241.204:6610/gitv/live1/G_ANHUI-CQ/G_ANHUI-CQ/
-#EXTINF:-1,北京卫视超清
+#EXTINF:-1,北京卫视
 http://223.110.241.204:6610/gitv/live1/G_BEIJING-CQ/G_BEIJING-CQ/
-#EXTINF:-1,广东卫视超清
-http://223.110.241.204:6610/gitv/live1/G_GUANGDONG-CQ/G_GUANGDONG-CQ/
-#EXTINF:-1,黑龙江卫视超清
+#EXTINF:-1,广东卫视
+http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221227476/index.m3u8
+#EXTINF:-1,黑龙江卫视
 http://223.110.241.204:6610/gitv/live1/G_HEILONGJIANG-CQ/G_HEILONGJIANG-CQ/
-#EXTINF:-1,湖北卫视超清
+#EXTINF:-1,湖北卫视
 http://223.110.241.204:6610/gitv/live1/G_HUBEI-CQ/G_HUBEI-CQ/
-#EXTINF:-1,湖南卫视超清
+#EXTINF:-1,湖南卫视
 http://223.110.241.204:6610/gitv/live1/G_HUNAN-CQ/G_HUNAN-CQ/
-#EXTINF:-1,江苏卫视超清
-http://223.110.241.204:6610/gitv/live1/G_JIANGSU-CQ/G_JIANGSU-CQ/
-#EXTINF:-1,辽宁卫视超清
+#EXTINF:-1,江苏卫视
+http://223.110.236.24/ott.js.chinamobile.com/PLTV/3/224/3221228097/index.m3u8
+#EXTINF:-1,辽宁卫视
 http://223.110.241.204:6610/gitv/live1/G_LIAONING-CQ/G_LIAONING-CQ/
-#EXTINF:-1,山东卫视超清
+#EXTINF:-1,山东卫视
 http://223.110.241.204:6610/gitv/live1/G_SHANDONG-CQ/G_SHANDONG-CQ/
-#EXTINF:-1,东方卫视超清
+#EXTINF:-1,东方卫视
 http://223.110.241.204:6610/gitv/live1/G_DONGFANG-CQ/G_DONGFANG-CQ/
-#EXTINF:-1,深圳卫视超清
+#EXTINF:-1,深圳卫视
 http://223.110.241.204:6610/gitv/live1/G_SHENZHEN-CQ/G_SHENZHEN-CQ/
-#EXTINF:-1,天津卫视超清
+#EXTINF:-1,天津卫视
 http://223.110.241.204:6610/gitv/live1/G_TIANJIN-CQ/G_TIANJIN-CQ/
-#EXTINF:-1,浙江卫视超清
+#EXTINF:-1,浙江卫视
 http://223.110.241.204:6610/gitv/live1/G_ZHEJIANG-CQ/G_ZHEJIANG-CQ/
 #EXTINF:-1,CGTN
 http://223.110.241.204:6610/gitv/live1/G_CCTV-NEWS/G_CCTV-NEWS/
@@ -114,14 +144,22 @@ http://223.110.241.204:6610/gitv/live1/G_XUANDONG/G_XUANDONG/
 http://223.110.241.204:6610/gitv/live1/G_YOUMAN/G_YOUMAN/
 #EXTINF:-1,嘉佳卡通
 http://223.110.241.204:6610/gitv/live1/G_JIAJIA/G_JIAJIA/
-
-
-
-
-
-
-
-
+#EXTINF:-1,咪咕视频
+http://223.110.235.14/ott.js.chinamobile.com/PLTV/3/224/3221228206/index.m3u8
+#EXTINF:-1,睢宁三农
+http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221227709/index.m3u8
+#EXTINF:-1,睢宁生活教育
+http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221227701/index.m3u8
+#EXTINF:-1,睢宁综合
+http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221227706/index.m3u8
+#EXTINF:-1,睢宁资讯
+http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221227712/index.m3u8
+#EXTINF:-1,翡翠台
+https://pi.0472.org/tv/fct.php?auth=231110
+#EXTINF:-1,8K UHD
+http://ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
+#EXTINF:-1,Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 
 
@@ -438,8 +476,6 @@ http://hls.live.cqccn.com/__cl/cg:live/__c/bqkjHD/__op/default/__f/index.m3u8
 http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="港澳",凤凰资讯
 http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港澳",翡翠台
-https://pi.0472.org/tv/fct.php?auth=202311030915
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" group-title="港澳",明珠台
 https://pi.0472.org/tv/mzt.php?auth=202311030915
 #EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://live.fanmingming.com/tv/澳视澳门.png" group-title="港澳",澳视澳门
@@ -2253,7 +2289,7 @@ https://livear.cgtn.com/1000a/prog_index.m3u8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001278/index.m3u8
 #EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" tvg-logo="https://live.fanmingming.com/tv/财富天下.png" group-title="其他频道",财富天下
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001219/index.m3u8
-#EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" group-title="超清频道",纯享超清
+#EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" group-title="频道",纯享
 http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="其他频道",中国天气
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001102/index.m3u8
@@ -2263,8 +2299,6 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001102/index.m3u8
 
 #EXTINF:-1,tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://epg.112114.xyz/logo/緯來體育台.png" group-title="体育",纬来体育
 https://pull-f5-spe.ixigua.com/yeslivetv.com/396e188d-2f7b-49fd-bd60-d5ed17692c22/index.m3u8?by=yeslivetv.com
-#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="香港",翡翠台
-https://pull-f5-spe.ixigua.com/yeslivetv.com/324658828-346112874/index.m3u8?by=yeslivetv.com
 #EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="香港",明珠台
 https://pull-f5-spe.ixigua.com/yeslivetv.com/621429301-78614241/index.m3u8?by=yeslivetv.com
 #EXTINF:-1,tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" group-title="香港",ViuTV
