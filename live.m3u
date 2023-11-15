@@ -2,8 +2,10 @@
 http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 #EXTINF:-1,CCTV-4K 超高清
 http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv4k/15000000/mnf.m3u8
-#EXTINF:-1,CCTV-4K UHD
+#EXTINF:-1,4K UHD 1
 http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228242/index.m3u8
+#EXTINF:-1,4K UHD 2
+http://ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
 #EXTINF:-1,CCTV-1 综合
 http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228149/index.m3u8
 #EXTINF:-1,CCTV-2 财经
@@ -162,8 +164,37 @@ http://ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1,欢笑剧场
 http://111.20.40.170/PLTV/88888893/224/3221226582/index.m3u8
-
-
+#EXTINF:-1,NBC
+http://41.205.93.154/NBC/index.m3u8
+#EXTINF:-1,CGTN
+http://mqiptv.com:8014/ch/custom6/mqlive.m3u8  
+#EXTINF:-1,PAC 12 Insider
+https://pac12-samsungus.amagi.tv/playlist.m3u8  
+#EXTINF:-1,Fox News
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8  
+#EXTINF:-1,OAN Plus
+http://oneamericanews-roku-us.amagi.tv/playlist.m3u8  
+#EXTINF:-1,AL Jazeera
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8  
+#EXTINF:-1,TRT World
+https://tv-trtworld.live.trt.com.tr/master.m3u8  
+#EXTINF:-1,Afarin Kids TV
+https://5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8  
+#EXTINF:-1,NHK World
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8  
+#EXTINF:-1,Cinemax
+http://94.156.33.91/Cinemax/mono.m3u8  
+#EXTINF:-1,Fox 土耳其
+https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8  
+#EXTINF:-1,CNA 新加坡
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8  
+#EXTINF:-1,News Max
+https://nmxairy.akamaized.net/hls/live/529965/Live_1/index.m3u8  
+#EXTINF:-1,ABC News
+http://23.237.100.82:8000/ABC_WEST/manifest.m3u8  
+#EXTINF:-1,CBS News New York
+https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8?iu=/8264/vaw-can/desktop/cbsnews  
+#EXTINF:-1,翡翠台
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1 综合
 https://cntv.lat/tv?auth=202311030915&id=cctv1
@@ -2102,7 +2133,7 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001070/index.m3u8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001201/index.m3u8
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="卫视频道",贵州卫视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001184/index.m3u8
-#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
+#EXTINF:-1,辽宁卫视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001035/index.m3u8
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="卫视频道",重庆卫视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001129/index.m3u8
