@@ -16,14 +16,13 @@
 CCTV-8K 超高清 7680×4320 50FPS  
 CCTV-8K 超高清 3840×2160 25FPS http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8  
 CCTV-4K 超高清 3840×2160 25FPS http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv4k/15000000/mnf.m3u8  
-欢笑剧场 4K 3840×2160 25FPS http://111.20.40.170/PLTV/88888893/224/3221226582/index.m3u8  
-8K UHD 7680×4320 30FPS http://ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8  
+欢笑剧场 4K 3840×2160 25FPS 
+8K UHD 测试 7680×4320 30FPS http://ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8  
 Love Nature 4K 3840×2160 30FPS https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8  
-4K UHD 1 3840×2160 25FPS http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228242/index.m3u8  
-4K UHD 2 3840×2160 25FPS http://ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8  
+4K UHD 3840×2160 25FPS http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228242/index.m3u8  
 
 CCTV中国中央电视台  
-CCTV-1 综合 1920×1080 25FPS http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228149/index.m3u8  
+CCTV-1 综合 3840×2160 25FPS http://ott.mobaibox.com/PLTV/3/224/3221227896/index.m3u8
 CCTV-2 财经 1920×1080 25FPS http://223.110.241.204:6610/gitv/live1/G_CCTV-2-CQ/G_CCTV-2-CQ  
 CCTV-3 综艺 1920×1080 25FPS http://223.110.241.204:6610/gitv/live1/G_CCTV-3-CQ/G_CCTV-3-CQ  
 CCTV-4 中文国际 1920×1080 25FPS http://223.110.241.204:6610/gitv/live1/G_CCTV-4-CQ/G_CCTV-4-CQ  
