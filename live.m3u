@@ -1,11 +1,9 @@
 #EXTINF:-1,CCTV-8K 超高清
 http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 #EXTINF:-1,CCTV-4K 超高清
-http://ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 #EXTINF:-1,CCTV-4K UHD
 http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228242/index.m3u8
-#EXTINF:-1,CCTV-1 综合 4K
-http://ott.mobaibox.com/PLTV/3/224/3221227896/index.m3u8
 #EXTINF:-1,CCTV-1 综合
 http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228149/index.m3u8
 #EXTINF:-1,CCTV-2 财经
@@ -43,7 +41,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 #EXTINF:-1,CCTV-17 农业农村
 http://223.110.235.10/ott.js.chinamobile.com/PLTV/3/224/3221227726/index.m3u8
 #EXTINF:-1,欢笑剧场 4K
-http://ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
+
 #EXTINF:-1,Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1,FASHION TV 4K
@@ -1238,7 +1236,6 @@ https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EU
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
 #EXTINF:-1,Bloomberg HT 
 https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
-https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
 #EXTINF:-1,Bloomberg TV Asia (Live)
 https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
 #EXTINF:-1,ChannelNewsAsia F
