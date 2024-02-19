@@ -38,7 +38,8 @@ CCTV-12 社会与法 1920×1080 25FPS http://180.97.247.27:8088/liveplay-kk.rtxa
 CCTV-13 新闻 1920×1080 25FPS http://223.110.241.204:6610/gitv/live1/G_CCTV-13-CQ/G_CCTV-13-CQ  
 CCTV-14 少儿 1920×1080 25FPS http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctvsehd8m/8000000/mnf.m3u8  
 CCTV-15 音乐 1920×1080 25FPS http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv15hd8m/8000000/mnf.m3u8  
-CCTV-16 奥林匹克 4K 3840×2160 50FPS http://ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8  
+CCTV-16 奥林匹克 4K 3840×2160 50FPS 
+CCTV-16 奥林匹克 4K 3840×2160 25FPS http://223.110.235.9/ott.js.chinamobile.com/TVOD/3/224/3221228168/index.m3u8  
 CCTV-17 农业农村 1920×1080 25FPS http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv17hd8m/8000000/mnf.m3u8  
 CCTV-风云足球 1920×1080 25FPS http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/index.m3u8  
 
